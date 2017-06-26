@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LibrosEsquema.xsd">
+    <Libro publicado_en="1999">
+        <Isbn>566781</Isbn>
+        <Titulo>titulo</Titulo>
+        <Autor>autor</Autor>
+        <NEjemplares>99</NEjemplares>
+        <Editorial>editorial</Editorial>
+        <NPaginas>77</NPaginas>
+    </Libro>
+</Libros>

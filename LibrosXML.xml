@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LibrosEsquema.xsd">
+    <Libro publicado_en="2008">
+        <Isbn>214345</Isbn>
+        <Titulo>java para tu padre</Titulo>
+        <Autor>javamanjajaj</Autor>
+        <NEjemplares>441</NEjemplares>
+        <Editorial>Javitos</Editorial>
+        <NPaginas>20</NPaginas>
+    </Libro>
+    <Libro publicado_en="2055">
+        <Isbn>711243</Isbn>
+        <Titulo>patrones</Titulo>
+        <Autor>javaman</Autor>
+        <NEjemplares>242</NEjemplares>
+        <Editorial>Diseñorial</Editorial>
+        <NPaginas>381</NPaginas>
+    </Libro>
+    <Libro publicado_en="2001">
+        <Isbn>119856</Isbn>
+        <Titulo>El señor de los anillos</Titulo>
+        <Autor>Tolkien</Autor>
+        <NEjemplares>3124</NEjemplares>
+        <Editorial>Puto Amo</Editorial>
+        <NPaginas>499</NPaginas>
+    </Libro>
+    <Libro publicado_en="2002">
+        <Isbn>665124</Isbn>
+        <Titulo>Juego de tronos</Titulo>
+        <Autor>Viejo echo polvo</Autor>
+        <NEjemplares>4146</NEjemplares>
+        <Editorial>TojodioTirial</Editorial>
+        <NPaginas>611</NPaginas>
+    </Libro>
+    <Libro publicado_en="206">
+        <Isbn>344128</Isbn>
+        <Titulo>Joder que bueno soy</Titulo>
+        <Autor>el papa</Autor>
+        <NEjemplares>1</NEjemplares>
+        <Editorial>El vaticano</Editorial>
+        <NPaginas>999</NPaginas>
+    </Libro>
+    <Libro publicado_en="1953">
+        <Isbn>876595</Isbn>
+        <Titulo>hhhhhhh</Titulo>
+        <Autor>tttttttttttttt</Autor>
+        <NEjemplares>543</NEjemplares>
+        <Editorial>jjjjuuji</Editorial>
+        <NPaginas>675</NPaginas>
+    </Libro>
+    <Libro publicado_en="2017">
+        <Isbn>534324</Isbn>
+        <Titulo>50 sombras de juansito</Titulo>
+        <Autor>juansito</Autor>
+        <NEjemplares>585</NEjemplares>
+        <Editorial>jajaj </Editorial>
+        <NPaginas>77</NPaginas>
+    </Libro>
+</Libros>

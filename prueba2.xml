@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="LibrosEsquema.xsd">
+    <Libro publicado_en="2001">
+        <Isbn>887123</Isbn>
+        <Titulo>ffffff</Titulo>
+        <Autor>gggggggggg</Autor>
+        <NEjemplares>2221</NEjemplares>
+        <Editorial>eeeeeeeee</Editorial>
+        <NPaginas>99</NPaginas>
+    </Libro>
+    <Libro publicado_en="2009">
+        <Isbn>332343</Isbn>
+        <Titulo>bbbbbbb</Titulo>
+        <Autor>xxxxxxxxxxxx</Autor>
+        <NEjemplares>21</NEjemplares>
+        <Editorial>ccccccc</Editorial>
+        <NPaginas>32</NPaginas>
+    </Libro>
+</Libros>
